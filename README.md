@@ -12,7 +12,7 @@ Unify server hosted on port localhost:8000
 Listening to file 'trail.py' hosted on port localhost:8000
 ```
 
-# Installation
+# Installation
 ```bash
 bun compile
 ```
