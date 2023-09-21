@@ -2,7 +2,7 @@
 
 A 2 way file syncing service created to learn bun with the side effect of allowing simultaneous live coding. 
 
-# Useage
+## Useage
 ```bash
 > unify host --file trail.py --port 8000
 Unify server hosted on port localhost:8000
@@ -12,7 +12,7 @@ Unify server hosted on port localhost:8000
 Listening to file 'trail.py' hosted on port localhost:8000
 ```
 
-# Installation
+## Installation
 ```bash
 bun compile
 ```
